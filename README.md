@@ -1,0 +1,2 @@
+# Laza E-Commerce App
+The project is based on the development of a design first found in figma with React Native. First, the design will be developed and implemented exactly as it is, and then the project will be given originality by making changes to it.
